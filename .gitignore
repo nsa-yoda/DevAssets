@@ -1,0 +1,4 @@
+# Mac specific hidden files and folders
+*.DS_Store
+__MACOSX/
+
